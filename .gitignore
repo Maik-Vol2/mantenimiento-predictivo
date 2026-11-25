@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Secretos y API Keys
+.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuración local del editor
+.vscode/
